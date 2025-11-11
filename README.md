@@ -11,4 +11,7 @@
   <a href="https://www.codechef.com/users/zain_s1" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
   </a>
+  <a href="https://www.kaggle.com/zainabs1" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+  </a>
 </p>
